@@ -1,6 +1,6 @@
 # Horiseon Home Page Refactor
 
-![The top of the webpage](assets/images/screenshot-1.png)
+![The top of the webpage](./assets/images/Screenshot-1.png)
 
 ## Description
 
